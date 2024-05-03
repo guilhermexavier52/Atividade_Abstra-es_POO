@@ -1,0 +1,24 @@
+a) Caneta:
+Função: Escrever ou desenhar em superfícies planas.
+Componentes: Corpo, tinta, ponta, tampa (opcional).
+Características: Portátil, leve, disponível em várias cores, recarregável (em alguns casos).
+
+b) Cadeira:
+Função: Proporcionar suporte e conforto para sentar.
+Componentes: Assento, encosto, pernas (ou base), estrutura de suporte.
+Características: Ergonômica, variabilidade de design, materiais diversos (madeira, metal, plástico), pode ter apoios para braços ou não.
+
+c) Mesa:
+Função: Fornecer uma superfície plana para colocar objetos ou realizar atividades.
+Componentes: Tampo, pernas (ou base), possíveis gavetas ou prateleiras (em alguns modelos).
+Características: Tamanho variável, materiais diversos (madeira, metal, vidro), pode ser dobrável ou expansível.
+
+d) Computador:
+Função: Processar dados e executar tarefas de acordo com instruções programadas.
+Componentes: CPU (Unidade Central de Processamento), memória (RAM e armazenamento), placa-mãe, periféricos (teclado, mouse, monitor), sistema operacional.
+Características: Eletrônico, programável, conectividade à internet, capacidade de armazenamento e processamento de dados.
+
+e) Relógio:
+Função: Medir o tempo.
+Componentes: Mostrador (com ponteiros ou digital), mecanismo interno (quartzo, mecânico), pulseira (em relógios de pulso).
+Características: Mecânico ou digital, variabilidade de design (analógico, digital, híbrido), pode ter funcionalidades adicionais (alarme, cronômetro, data).
